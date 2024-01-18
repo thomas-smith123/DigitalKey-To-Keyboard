@@ -1,0 +1,10 @@
+".\obj\main.obj",
+".\obj\usb.obj",
+".\obj\usb_desc.obj",
+".\obj\usb_req_class.obj",
+".\obj\util.obj",
+".\obj\timer.obj",
+".\obj\usb_req_vendor.obj",
+".\obj\usb_req_std.obj" 
+TO ".\obj\stc_usb_keyboard" REGFILE (.\obj\stc_usb_keyboard.ORC) 
+PRINT(".\obj\stc_usb_keyboard.m51") RAMSIZE(256) 

@@ -1,0 +1,11 @@
+#define key_A 	0x04
+#define key_S 	0x16
+#define key_D 	0x07
+#define key_F 	0x09
+#define key_G 	0x0A
+#define key_H 	0x0B
+#define key_J 	0x0D
+#define key_K 	0x0E
+#define key_L 	0x0F
+#define key_scroll 0x47
+#define key_CAPS 0x39
